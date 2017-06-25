@@ -1,4 +1,4 @@
-#get-dontpad
+# get-dontpad
 
 It's a small tool to fetch text from dontpad.com
 
