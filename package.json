@@ -1,6 +1,6 @@
 {
   "name": "get-dontpad",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dontpad crawler",
   "main": "src/main.js",
   "scripts": {
