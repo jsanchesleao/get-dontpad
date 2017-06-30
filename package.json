@@ -1,6 +1,6 @@
 {
   "name": "get-dontpad",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "dontpad crawler",
   "main": "src/main.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "jsanchesleao",
   "license": "ISC",
   "dependencies": {
-    "ccrawler": "^1.1.0",
+    "ccrawler": "^1.2.1",
     "html-entities": "^1.2.1"
   }
 }

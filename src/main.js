@@ -5,7 +5,7 @@ function get(path) {
 
   return ccrawler.exec(['open "http://dontpad.com/' + path + '"',
                   'find "#text"',
-		  'inner-html'].join('\n'), {})
+		  'inner-html'].join('\n'), {silent: true})
 		  .then(decodeHtml);
 
 }
